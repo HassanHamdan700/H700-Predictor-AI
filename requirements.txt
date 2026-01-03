@@ -1,7 +1,8 @@
 streamlit
-joblib
 numpy
 pandas
 scikit-learn
+joblib
+openpyxl
 Pillow
 opencv-python
